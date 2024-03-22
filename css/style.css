@@ -1521,7 +1521,56 @@ justify-content: flex-start;
   .iicheth{
    text-align: center;
   }
+/*=================================================================
+  Sponsorship Table
+==================================================================*/
+h2{
+  word-spacing: 3px;
+}
+.sponsortable{
+  width: 540px;
+ justify-content: center;
+  
+}
+.sponsortable,
+  .spontab,
+  .tabheading th {
+    border: 1px solid black;
+    border-collapse: collapse;
 
+  
+  }
+  .tabheading th {
+  font-size: 20px;
+  }
+  /* .regtab{
+    font-size: 20px;
+  } */
+.sponscat{
+  text-align: center;
+}
+
+  .tabheading th {
+    background-color: #0b5688;
+    color: #f1d276;
+    padding: 5px;
+   
+  }
+
+  .spontab {
+    text-align: center;
+    padding: 5px;
+    padding-left: 10px;
+  }
+
+  .partcat {
+    text-align: left;
+  }
+  .colspan{
+    text-align: center;
+    font-weight: bold;
+  }
+  
 /*=================================================================
   Schedule section
 ==================================================================*/
